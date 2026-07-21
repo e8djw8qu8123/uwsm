@@ -1,4 +1,4 @@
--- This script was generated using the MoonVeil Obfuscator v1.4.5 [https://moonveil.cc]
+-- by Angry66gsjjd
 
 local xA,ze,aq,Jw,U,sn=type,pairs,getmetatable,bit32.bxor
 local Kq,gr,lz,kG,er,Eq,Hx,Zq,V,xc,Ag,HE,Tv,Rj,_A,Af,mt,RB,Sf,Uo,Sj,Ey,be,CE,_y;
